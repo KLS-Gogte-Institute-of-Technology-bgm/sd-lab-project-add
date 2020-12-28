@@ -7,6 +7,9 @@
  - The website is open for all but only a user logged in with his credentials, can make changes based on the functionality provided to them.
  - Admin can view which items are added and the confirmed orders.
  
+ ## Built with: ##
+ HTML,CSS,Bootstrap,PHP,JQuery and MySql.
+ 
   **Team Name:** ADD
 
   **Batch Number:** 23
